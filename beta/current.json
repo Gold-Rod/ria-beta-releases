@@ -1,163 +1,163 @@
 {
   "manifest": {
     "schema_version": 1,
-    "release_id": "0.5.6-beta-774576df3647",
-    "version": "0.5.6",
+    "release_id": "0.5.7-beta-ff1e94530400",
+    "version": "0.5.7",
     "channel": "beta",
-    "published_at": "2026-08-28T12:32:57Z",
-    "source_revision": "0e8ee6b7092d603731f03fc2fbad342ad0762fe5",
+    "published_at": "2026-08-28T18:50:10Z",
+    "source_revision": "e085de6bfcbf6d87efcb705e336a1ba3b362b332",
     "artifacts": [
       {
         "os": "darwin",
         "arch": "arm64",
         "kind": "node-core",
-        "name": "ria-node-0.5.6-darwin-arm64",
+        "name": "ria-node-0.5.7-darwin-arm64",
         "size_bytes": 30586672,
-        "sha256": "8270e8d76f160912307c26d4cb61cba1de44fe85259e9b63884fe4beeefdc18e",
-        "version": "0.5.6"
+        "sha256": "3c6bae44c06fc8d198ccd43bd854868f9c202885ff8fa273fbe03ac7306b328f",
+        "version": "0.5.7"
       },
       {
         "os": "darwin",
         "arch": "arm64",
         "kind": "node-app",
-        "name": "Node-0.5.6-darwin-arm64.app.zip",
+        "name": "Node-0.5.7-darwin-arm64.app.zip",
         "size_bytes": 22207045,
-        "sha256": "8364cecf9a7a057addecaf169e5e3047fadcc19aeed3f2b910ca430549878a4a",
-        "version": "0.5.6"
+        "sha256": "adf3d492d13fdbfc297a09c430413e46534aa35838372513d7a22f5384a53279",
+        "version": "0.5.7"
       },
       {
         "os": "darwin",
         "arch": "arm64",
         "kind": "node-bootstrap",
-        "name": "Node-0.5.6-darwin-arm64.app.zip",
+        "name": "Node-0.5.7-darwin-arm64.app.zip",
         "size_bytes": 22207045,
-        "sha256": "8364cecf9a7a057addecaf169e5e3047fadcc19aeed3f2b910ca430549878a4a",
-        "version": "0.5.6"
+        "sha256": "adf3d492d13fdbfc297a09c430413e46534aa35838372513d7a22f5384a53279",
+        "version": "0.5.7"
       },
       {
         "os": "darwin",
         "arch": "arm64",
         "kind": "node-menubar",
-        "name": "Node-0.5.6-darwin-arm64.app.zip",
+        "name": "Node-0.5.7-darwin-arm64.app.zip",
         "size_bytes": 22207045,
-        "sha256": "8364cecf9a7a057addecaf169e5e3047fadcc19aeed3f2b910ca430549878a4a",
-        "version": "0.5.6"
+        "sha256": "adf3d492d13fdbfc297a09c430413e46534aa35838372513d7a22f5384a53279",
+        "version": "0.5.7"
       },
       {
         "os": "darwin",
         "arch": "amd64",
         "kind": "node-core",
-        "name": "ria-node-0.5.6-darwin-amd64",
+        "name": "ria-node-0.5.7-darwin-amd64",
         "size_bytes": 33103344,
-        "sha256": "74f43f3978d232e283d6e002c20bcb214f0550de9fed43eb93094c914399f260",
-        "version": "0.5.6"
+        "sha256": "b44f1c6b511335010f78d81d66b4102fe4edd2dfa4ff27078f374b119f532370",
+        "version": "0.5.7"
       },
       {
         "os": "darwin",
         "arch": "amd64",
         "kind": "node-app",
-        "name": "Node-0.5.6-darwin-amd64.app.zip",
-        "size_bytes": 24781170,
-        "sha256": "91c96f3aea2865fc1cbde0547d5950707899bdeef815f86e42c83e3342becb7a",
-        "version": "0.5.6"
+        "name": "Node-0.5.7-darwin-amd64.app.zip",
+        "size_bytes": 24781162,
+        "sha256": "b8e5c2e91bee72c6bb6b3b7a2401479e833f5c0984752bf9d63bfa221a895cd6",
+        "version": "0.5.7"
       },
       {
         "os": "darwin",
         "arch": "amd64",
         "kind": "node-bootstrap",
-        "name": "Node-0.5.6-darwin-amd64.app.zip",
-        "size_bytes": 24781170,
-        "sha256": "91c96f3aea2865fc1cbde0547d5950707899bdeef815f86e42c83e3342becb7a",
-        "version": "0.5.6"
+        "name": "Node-0.5.7-darwin-amd64.app.zip",
+        "size_bytes": 24781162,
+        "sha256": "b8e5c2e91bee72c6bb6b3b7a2401479e833f5c0984752bf9d63bfa221a895cd6",
+        "version": "0.5.7"
       },
       {
         "os": "darwin",
         "arch": "amd64",
         "kind": "node-menubar",
-        "name": "Node-0.5.6-darwin-amd64.app.zip",
-        "size_bytes": 24781170,
-        "sha256": "91c96f3aea2865fc1cbde0547d5950707899bdeef815f86e42c83e3342becb7a",
-        "version": "0.5.6"
+        "name": "Node-0.5.7-darwin-amd64.app.zip",
+        "size_bytes": 24781162,
+        "sha256": "b8e5c2e91bee72c6bb6b3b7a2401479e833f5c0984752bf9d63bfa221a895cd6",
+        "version": "0.5.7"
       }
     ],
     "bundle": {
       "schema_version": 1,
-      "release_id": "0.5.6-beta-774576df3647",
-      "version": "0.5.6",
+      "release_id": "0.5.7-beta-ff1e94530400",
+      "version": "0.5.7",
       "channel": "beta",
-      "published_at": "2026-08-28T12:32:57Z",
+      "published_at": "2026-08-28T18:50:10Z",
       "targets": [
         {
           "kind": "node-core",
-          "name": "ria-node-0.5.6-darwin-arm64",
-          "version": "0.5.6",
+          "name": "ria-node-0.5.7-darwin-arm64",
+          "version": "0.5.7",
           "os": "darwin",
           "arch": "arm64",
           "size_bytes": 30586672,
-          "sha256": "8270e8d76f160912307c26d4cb61cba1de44fe85259e9b63884fe4beeefdc18e"
+          "sha256": "3c6bae44c06fc8d198ccd43bd854868f9c202885ff8fa273fbe03ac7306b328f"
         },
         {
           "kind": "node-app",
-          "name": "Node-0.5.6-darwin-arm64.app.zip",
-          "version": "0.5.6",
+          "name": "Node-0.5.7-darwin-arm64.app.zip",
+          "version": "0.5.7",
           "os": "darwin",
           "arch": "arm64",
           "size_bytes": 22207045,
-          "sha256": "8364cecf9a7a057addecaf169e5e3047fadcc19aeed3f2b910ca430549878a4a"
+          "sha256": "adf3d492d13fdbfc297a09c430413e46534aa35838372513d7a22f5384a53279"
         },
         {
           "kind": "node-bootstrap",
-          "name": "Node-0.5.6-darwin-arm64.app.zip",
-          "version": "0.5.6",
+          "name": "Node-0.5.7-darwin-arm64.app.zip",
+          "version": "0.5.7",
           "os": "darwin",
           "arch": "arm64",
           "size_bytes": 22207045,
-          "sha256": "8364cecf9a7a057addecaf169e5e3047fadcc19aeed3f2b910ca430549878a4a"
+          "sha256": "adf3d492d13fdbfc297a09c430413e46534aa35838372513d7a22f5384a53279"
         },
         {
           "kind": "node-menubar",
-          "name": "Node-0.5.6-darwin-arm64.app.zip",
-          "version": "0.5.6",
+          "name": "Node-0.5.7-darwin-arm64.app.zip",
+          "version": "0.5.7",
           "os": "darwin",
           "arch": "arm64",
           "size_bytes": 22207045,
-          "sha256": "8364cecf9a7a057addecaf169e5e3047fadcc19aeed3f2b910ca430549878a4a"
+          "sha256": "adf3d492d13fdbfc297a09c430413e46534aa35838372513d7a22f5384a53279"
         },
         {
           "kind": "node-core",
-          "name": "ria-node-0.5.6-darwin-amd64",
-          "version": "0.5.6",
+          "name": "ria-node-0.5.7-darwin-amd64",
+          "version": "0.5.7",
           "os": "darwin",
           "arch": "amd64",
           "size_bytes": 33103344,
-          "sha256": "74f43f3978d232e283d6e002c20bcb214f0550de9fed43eb93094c914399f260"
+          "sha256": "b44f1c6b511335010f78d81d66b4102fe4edd2dfa4ff27078f374b119f532370"
         },
         {
           "kind": "node-app",
-          "name": "Node-0.5.6-darwin-amd64.app.zip",
-          "version": "0.5.6",
+          "name": "Node-0.5.7-darwin-amd64.app.zip",
+          "version": "0.5.7",
           "os": "darwin",
           "arch": "amd64",
-          "size_bytes": 24781170,
-          "sha256": "91c96f3aea2865fc1cbde0547d5950707899bdeef815f86e42c83e3342becb7a"
+          "size_bytes": 24781162,
+          "sha256": "b8e5c2e91bee72c6bb6b3b7a2401479e833f5c0984752bf9d63bfa221a895cd6"
         },
         {
           "kind": "node-bootstrap",
-          "name": "Node-0.5.6-darwin-amd64.app.zip",
-          "version": "0.5.6",
+          "name": "Node-0.5.7-darwin-amd64.app.zip",
+          "version": "0.5.7",
           "os": "darwin",
           "arch": "amd64",
-          "size_bytes": 24781170,
-          "sha256": "91c96f3aea2865fc1cbde0547d5950707899bdeef815f86e42c83e3342becb7a"
+          "size_bytes": 24781162,
+          "sha256": "b8e5c2e91bee72c6bb6b3b7a2401479e833f5c0984752bf9d63bfa221a895cd6"
         },
         {
           "kind": "node-menubar",
-          "name": "Node-0.5.6-darwin-amd64.app.zip",
-          "version": "0.5.6",
+          "name": "Node-0.5.7-darwin-amd64.app.zip",
+          "version": "0.5.7",
           "os": "darwin",
           "arch": "amd64",
-          "size_bytes": 24781170,
-          "sha256": "91c96f3aea2865fc1cbde0547d5950707899bdeef815f86e42c83e3342becb7a"
+          "size_bytes": 24781162,
+          "sha256": "b8e5c2e91bee72c6bb6b3b7a2401479e833f5c0984752bf9d63bfa221a895cd6"
         }
       ],
       "ipc_contract": {
@@ -172,9 +172,9 @@
       "update_order": null,
       "health_deadline_seconds": 120,
       "downgrade_policy": "forbidden",
-      "source_revision": "0e8ee6b7092d603731f03fc2fbad342ad0762fe5"
+      "source_revision": "e085de6bfcbf6d87efcb705e336a1ba3b362b332"
     }
   },
-  "signature": "8zXGJRg9uE+WneG2myW0YD5z6N/W4BgCo59904UqxarNyKSqT61frmcqwhFZQ260F/UCiS8evYvO7Q8BZ3qpDA==",
-  "key_id": "beta-campagne-4a"
+  "signature": "anaFBK0yoYCj0e7vBEoyuJPSe0RUD9cVScH6zYpyiEz2fIrg27Q/Ys1MUbNtybP4XnR3J5YDJaASKDC64anwDQ==",
+  "key_id": "ria-update-canonique"
 }
